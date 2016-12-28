@@ -11,6 +11,7 @@ formed during cell division. In most of a cell’s life its DNA is in a semi-com
 within the nucleus. Some regions are tightly wound and inaccessible, while others are open.
 Perhaps even more surprising is the dynamic nature of DNA, where the accessibility of different
 portions is constantly changing depending on the state of the cell [6].
+
 DNA compaction serves as a mechanism to both address space limitation, and also to regulate
 which genes are turned off and on. Genes within tight heterochromatin are inaccessible
 to RNA polymerase and transcription factors, and cannot be turned into an active protein.
